@@ -45,3 +45,6 @@ If you have any questions message us on our chat:
 https://chat.c0d3.com/c0d3/channels/
 
 __Sequelize credentials are in the chat for privacy__
+
+
+# sample testing pr
